@@ -1,0 +1,36 @@
+{
+  "name": "mali-secure-miniprogram",
+  "version": "1.0.1",
+  "description": "小程序签名类库",
+  "miniprogram": "dist",
+  "main": "lib/secure.js",
+  "scripts": {
+    "test": "tsc && node lib/test.js",
+    "build": "tsc",
+    "up": "npm publish"
+  },
+  "dependencies": {
+    "ts-md5": "^1.2.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://cute-angelia/mali-secure-miniprogram.git"
+  },
+  "homepage": "https://cute-angelia/mali-secure-miniprogram.git",
+  "bugs": {
+    "url": "https://cute-angelia/mali-secure-miniprogram.git/issues"
+  },
+  "keywords": [
+    "secure",
+    "decrypt",
+    "wechat sign"
+  ],
+  "author": "rose2099.c@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^25.2.3",
+    "jest": "^26.0.1",
+    "ts-jest": "^26.1.0",
+    "typescript": "^3.9.3"
+  }
+}
