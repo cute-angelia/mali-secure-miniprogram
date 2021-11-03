@@ -1,6 +1,6 @@
 {
   "name": "mali-secure-miniprogram",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "小程序签名类库",
   "miniprogram": "dist",
   "main": "lib/secure.js",
@@ -14,11 +14,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://cute-angelia/mali-secure-miniprogram.git"
+    "url": "git+https://github.com/cute-angelia/mali-secure-miniprogram.git"
   },
-  "homepage": "https://cute-angelia/mali-secure-miniprogram.git",
+  "homepage": "https://github.com/cute-angelia/mali-secure-miniprogram.git",
   "bugs": {
-    "url": "https://cute-angelia/mali-secure-miniprogram.git/issues"
+    "url": "https://github.com/cute-angelia/mali-secure-miniprogram.git/issues"
   },
   "keywords": [
     "secure",
