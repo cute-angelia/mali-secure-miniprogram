@@ -1,6 +1,6 @@
 {
   "name": "mali-secure-miniprogram",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "小程序签名类库",
   "miniprogram": "dist",
   "main": "lib/secure.js",

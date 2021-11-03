@@ -3,9 +3,6 @@ import {
 } from 'ts-md5/dist/md5';
 var parseuri = require('./parseuri')
 
-var CryptoTS = require("crypto-ts");
-
-
 class Secure {
   appid: string
   version: string
