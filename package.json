@@ -7,7 +7,7 @@
   "scripts": {
     "test": "tsc && node lib/test.js",
     "build": "tsc",
-    "up": "npm publish"
+    "up": "npm publish && make up"
   },
   "dependencies": {
     "ts-md5": "^1.2.7"
